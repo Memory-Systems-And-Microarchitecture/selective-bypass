@@ -4,7 +4,7 @@
 
 # Clone ChampSim repository
 ```
-git clone [https://github.com/ChampSim/ChampSim.git](https://github.com/Memory-Systems-And-Microarchitecture/selective-bypass)
+git clone https://github.com/Memory-Systems-And-Microarchitecture/selective-bypass
 ```
 
 # Compile
