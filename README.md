@@ -26,9 +26,8 @@ Execute the binary directly.
 $ bin/champsim --warmup_instructions 200000000 --simulation_instructions 500000000 ~/path/to/traces/600.perlbench_s-210B.champsimtrace.xz
 ```
 
-#This repo is part of research project carried out in a semester long course work of Memory Systems and Architecture.
-Project is titled as "Selective bypassing of write intensive sets to improve lifetime of NVM based last level cache"
-Good luck and be a champion!
+# This repo is part of research project carried out in a semester long course work of Memory Systems and Architecture.
+# Project is titled as "Selective bypassing of write intensive sets to improve lifetime of NVM based last level cache"
 
-There are knobs on enabling/disabling bypassing, aggressive/selective bypassing inc/constant.h
+# There are knobs on enabling/disabling bypassing, aggressive/selective bypassing inc/constant.h
 <br>
